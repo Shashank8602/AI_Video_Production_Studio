@@ -1,0 +1,20 @@
+{
+  "title": "Why is the night sky dark?",
+  "screen": "WHY IS THE\nNIGHT SKY\nDARK?",
+  "lines": [
+    { "id": 1,  "speaker": "zib",  "emotion": "excited",  "camera": "wide",      "pause_after": 0.35, "text": "Bolt! Why is the night sky dark, if there are billions of stars?" },
+    { "id": 2,  "speaker": "bolt", "emotion": "neutral",  "camera": "boltClose", "pause_after": 0.30, "text": "Great question. If the universe were endless, every line of sight would end on a star." },
+    { "id": 3,  "speaker": "zib",  "emotion": "confused", "camera": "zibClose",  "pause_after": 0.30, "text": "So the whole sky should glow?" },
+    { "id": 4,  "speaker": "bolt", "emotion": "neutral",  "camera": "boltOts",   "pause_after": 0.18, "text": "Bright as the surface of a star. Everywhere." },
+    { "id": 5,  "speaker": "zib",  "emotion": "neutral",  "camera": "zibClose",  "pause_after": 0.40, "text": "Okay, that is definitely not what I see." },
+    { "id": 6,  "speaker": "bolt", "emotion": "neutral",  "camera": "boltClose", "pause_after": 0.18, "text": "Correct. Because the universe has an age. About thirteen point eight billion years." },
+    { "id": 7,  "speaker": "zib",  "emotion": "confused", "camera": "zibOts",    "pause_after": 0.45, "text": "So?" },
+    { "id": 8,  "speaker": "bolt", "emotion": "neutral",  "camera": "boltClose", "pause_after": 0.30, "text": "So light from the farthest stars hasn't had time to reach us yet." },
+    { "id": 9,  "speaker": "zib",  "emotion": "excited",  "camera": "zibClose",  "pause_after": 0.30, "text": "Wait. The dark parts are where the light is still on its way?" },
+    { "id": 10, "speaker": "bolt", "emotion": "neutral",  "camera": "wide",      "pause_after": 0.30, "text": "Exactly. And expansion stretches the light that does arrive, making it fainter and redder." },
+    { "id": 11, "speaker": "zib",  "emotion": "neutral",  "camera": "zibClose",  "pause_after": 0.55, "text": "So when I look up, I'm looking into the past." },
+    { "id": 12, "speaker": "bolt", "emotion": "neutral",  "camera": "boltClose", "pause_after": 0.50, "text": "Always. The dark is a clue that the universe had a beginning." },
+    { "id": 13, "speaker": "zib",  "emotion": "excited",  "camera": "wide",      "pause_after": 0.35, "text": "So the dark sky is basically the universe still loading." },
+    { "id": 14, "speaker": "bolt", "emotion": "neutral",  "camera": "boltClose", "pause_after": 0.00, "text": "Please never say that again." }
+  ]
+}

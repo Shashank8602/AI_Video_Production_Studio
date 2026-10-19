@@ -1,0 +1,8 @@
+node_modules/
+tts/.venv/
+__pycache__/
+videos/_preview/
+videos/*/audio/
+videos/*/frames/
+videos/*/final.mp4
+.DS_Store
