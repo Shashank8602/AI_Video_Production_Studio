@@ -40,3 +40,11 @@ Licences and versions are noted from memory and must be re-verified at setup tim
 - Free TTS quality; model downloads need disk space (a few hundred MB at most).
 - Package versions or licence changes.
 - Windows path/permission quirks with ffmpeg and Chromium.
+
+## Orchestration (deferred)
+
+| Need | Tool | Status |
+|---|---|---|
+| Stage tracking | `state.json` per video | Now |
+| Graph orchestration, checkpoints, approval interrupts | LangGraph | Deferred until video quality is judged |
+| LLM calls from a graph | `claude -p` (headless Claude Code) or a free-tier API | Decide if LangGraph is adopted; mind plan usage limits and terms |

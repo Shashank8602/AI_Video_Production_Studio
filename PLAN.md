@@ -86,3 +86,10 @@ Topic: **"If there are infinite stars, why is the night sky dark?"** (Olbers' pa
 - [ ] Free tool stack in TOOLS.md is acceptable
 - [ ] First topic (Olbers' paradox) is approved, or a different one chosen
 - [ ] OK to check the machine for Node, Python, ffmpeg and install what is missing
+
+## 10. Orchestration decision
+
+- **Now:** file-based state. Each video folder holds a `state.json` recording the current stage and the paths of its outputs. Claude does research and scripting directly in conversation; the user reviews scripts.
+- **Mechanical stages** (voice, timing, render, encode) are built as standalone, scriptable steps so they can be wrapped later.
+- **Later (after judging video quality):** optionally add LangGraph for stage orchestration, checkpointed state, the script-approval interrupt, retries, and batch runs.
+- **If LangGraph is added:** the research and scripting nodes could call Claude Code headlessly (`claude -p`). This uses the Claude plan's usage limits (or API billing), so check Anthropic's terms for automated use and watch usage before running batches. A free API-tier model is the alternative, with likely lower script quality.
