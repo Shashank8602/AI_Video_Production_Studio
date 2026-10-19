@@ -1,29 +1,37 @@
-# Script — Why is the night sky dark?
+# Script v4 — Why is the night sky dark?
 
-Status: **draft awaiting your review.** Nothing has been voiced or rendered.
+Status: **draft awaiting your review.** One simple idea, an everyday comparison, slower pace, longer pauses. Nothing is rendered.
 
-| # | Speaker | Line | Camera |
-|---|---|---|---|
-| 1 | Zib (excited) | Bolt! Why is the night sky dark, if there are billions of stars? | wide |
-| 2 | Bolt (neutral) | Great question. If the universe were endless, every line of sight would end on a star. | boltClose |
-| 3 | Zib (confused) | So the whole sky should glow? | zibClose |
-| 4 | Bolt (neutral) | Bright as the surface of a star. Everywhere. | boltOts |
-| 5 | Zib (neutral) | Okay, that is definitely not what I see. | zibClose |
-| 6 | Bolt (neutral) | Correct. Because the universe has an age. About thirteen point eight billion years. | boltClose |
-| 7 | Zib (confused) | So? | zibOts |
-| 8 | Bolt (neutral) | So light from the farthest stars hasn't had time to reach us yet. | boltClose |
-| 9 | Zib (excited) | Wait. The dark parts are where the light is still on its way? | zibClose |
-| 10 | Bolt (neutral) | Exactly. And expansion stretches the light that does arrive, making it fainter and redder. | wide |
-| 11 | Zib (neutral) | So when I look up, I'm looking into the past. | zibClose |
-| 12 | Bolt (neutral) | Always. The dark is a clue that the universe had a beginning. | boltClose |
-| 13 | Zib (excited) | So the dark sky is basically the universe still loading. | wide |
-| 14 | Bolt (neutral) | Please never say that again. | boltClose |
+| # | Speaker | Mood | Line | Camera |
+|---|---|---|---|---|
+| 1 | Zib | excited | Bolt! Why is the night sky dark? | wide |
+| 2 | Bolt | thinking | Hmm. Good question. | wide |
+| 3 | Zib | confused | There are so many stars. | zibClose |
+| 4 | Bolt | neutral | Yes. Billions of them. | boltClose |
+| 5 | Zib | doubtful | So... shouldn't it be bright? | zibClose |
+| 6 | Bolt | neutral | It should. But it isn't. | boltClose |
+| 7 | Zib | confused | Why not? | zibOts |
+| 8 | Bolt | neutral | Light takes time to travel. | boltOts |
+| 9 | Zib | doubtful | Like a letter in the mail? | zibClose |
+| 10 | Bolt | neutral | Yes! Some starlight is still on its way. | boltClose |
+| 11 | Zib | wowed | Ohh! It hasn't arrived yet? | zibClose |
+| 12 | Bolt | neutral | Not yet. So the sky stays dark. | boltClose |
+| 13 | Zib | wowed | So I'm seeing old light. | zibClose |
+| 14 | Bolt | sincere | Yes. Every star is a message from the past. | boltClose |
+| 15 | Zib | excited | So the sky is... still loading? | wide |
+| 16 | Bolt | deadpan | Please never say that again. | boltClose |
 
-**142 words**, estimated runtime about 59 s (speech at ~2.6 words/s plus 4.5 s of pauses). Target is 50-60 s.
+**16 lines, 87 words, longest line 9 words.** Estimated about 58 s at the slower pace with 13.0 s of pauses between turns.
+
+## What changed from v3
+
+- **One idea:** light takes time to travel, so some starlight hasn't arrived yet. That is the whole explanation.
+- **One everyday comparison:** a letter in the mail (Zib says it, Bolt agrees).
+- Removed the age of the universe and the numbers, which were the hard part.
+- Slower voices (Zib 0.92, Bolt 0.80) and about 0.8 s between turns, longer before the big moments (1.0 s) and the sincere line (1.1 s).
 
 ## Review checklist
 
-- Hook (line 1) lands in the first 2 seconds
-- Facts match research.md
-- Tone and jokes: anything to cut or change? (final joke: "universe still loading")
-- Any line you want rewritten, shortened, or added
+- Can you follow it the first time you hear it?
+- Is the pause between the two right?
+- Any line to change, cut, or add?

@@ -12,9 +12,9 @@ The agent reads this file before every video. Each piece of feedback from the us
 
 ## 2. Script
 
-- **[MUST]** Length: 130-160 spoken words total (about 50-60 s). Never exceed 65 s.
+- **[MUST]** Length: about 14-18 lines, 75-95 spoken words total (50-60 s at a slow pace with about 0.8 s between turns). Never exceed 65 s.
 - **[MUST]** Hook within the first 2 seconds: the first words are a question or a startling statement. Zib usually opens with the "why" question.
-- **[MUST]** It is a conversation. Alternate speakers; no line over 25 words; most lines under 15.
+- **[MUST]** It is a quick back-and-forth, modeled on Morphy's reels. Alternate speakers every line; each line is 3-8 words (hard cap 10); simple words, one idea per line.
 - Structure: Hook -> short setup -> the surprising answer -> the "so what" -> a punchy closing line from Bolt, then a cut to black. No outro, no "like and subscribe".
 - Each line is a question, a reaction, an explanation, or a joke setup/payoff. Cut anything that is none of these.
 - One sincere beat per video, where the wonder or the point lands without a joke.
@@ -31,6 +31,23 @@ The agent reads this file before every video. Each piece of feedback from the us
 - Laughs are short, closed-mouth chuckles, not long laughs.
 - Normalize final mix to about -14 LUFS; peak under -1 dBTP.
 - Re-listen to any line that sounds off; rewrite punctuation or spelling for pronunciation before re-generating.
+
+### Dialogue pattern (proven in video 001; follow this level of simplicity)
+
+- **Zib thinks in small steps, out loud.** His lines are the viewer's own thoughts: "There are so many stars." "So... shouldn't it be bright?" "Why not?" Two to six words, often a question.
+- **Zib offers the comparison himself.** He says the everyday picture ("Like a letter in the mail?") and Bolt confirms it ("Yes!"). The viewer feels they worked it out.
+- **Bolt confirms, then adds exactly one small fact.** Open with "Yes." / "Exactly." / "It should. But it isn't.", then one short sentence. He only answers the last question and never jumps ahead.
+- **Every line answers the line before it.** No topic jumps, no two new ideas in a row. If a step feels big, add a tiny Zib question ("Why not?") to slow it down.
+- **The reveal is a restatement.** Zib repeats the idea in his own words as a question ("Ohh! It hasn't arrived yet?") and Bolt answers "Not yet." plus the result.
+- **Close with a recap, an image, then a joke.** Zib recaps in about five words ("So I'm seeing old light."); Bolt gives one sincere picture ("Every star is a message from the past."); Zib makes a joke that echoes the topic ("still loading?"); Bolt shuts it down in one line.
+- **Words are everyday words only.** Light, stars, letter, mail, dark, bright. No numbers, ages, or terms like redshift or paradox.
+
+### Voice moods (v2)
+
+- Each script line has a mood: neutral, excited, wowed, confused, doubtful, thinking, sincere, deadpan. The mood sets the voice speed and pitch and also the character's face and gestures.
+- Fillers and "..." pauses are written into the script ("Hmm," "Ohh!" "Whoa..."); the voice engine turns "..." into a short pause.
+- Questions get a rising pitch at the end; pause lengths vary slightly; a soft breath sits before excited, wowed and thinking lines.
+- Zib: af_nicole, brighter and faster when excited. Bolt: blend of am_eric and af_nicole, calm and mentor-like (speed 0.83; Zib 0.92).
 
 ## 4. Timing and subtitles
 

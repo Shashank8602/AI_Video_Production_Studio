@@ -43,3 +43,18 @@ All characters are original. They deliberately do not reuse Morphy's characters 
 - Colors/shapes: approve the suggested palettes or request changes.
 - Names: Zib and Bolt are working names.
 - Gender-neutral voices are fine; the hosts need not sound human-gendered.
+
+
+---
+
+## Update v2 (supersedes the looks above)
+
+**Zib** now has stubby arms with hands (wave when excited, shrug when doubtful, hand to face when thinking), expressive eyebrows, blush cheeks, and glowing yellow spots on his head that brighten with excitement. Colors unchanged.
+
+**Bolt** keeps the original boxy grey robot (visor face, orange chest panel, antenna). New: eyebrow bars, mood-dependent eye height and shape, a mouth that skews or widens by mood, head tilts, and arm gestures (hand on chest when sincere, open-palm shrug when doubtful).
+
+**Moods** (shared by faces and voices): neutral, excited, wowed, confused, doubtful, thinking, sincere, deadpan.
+
+**Poses:** Zib can stand, sit on the beanbag, or lie down; Bolt can stand or sit on the stool. Cameras follow wherever they are.
+
+**Room:** layered cozy room with warm lighting, real shadows and depth of field, foreground props on the wide shot, and space, science, cozy and tech props (UFO, planet mobile, globe, atom model, microscope, retro computer, string lights, plants).
